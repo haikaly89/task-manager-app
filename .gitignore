@@ -1,0 +1,14 @@
+# Folder dependency Node.js
+node_modules/
+dist/
+
+# Folder Virtual Environment Python
+venv/
+env/
+
+# File Compiled Python
+__pycache__/
+*.pyc
+
+# File sistem operasi (opsional tapi bagus)
+.DS_Store
