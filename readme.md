@@ -1,5 +1,5 @@
 Task Manager
-A simple, secure, and efficient Task Management application built with React and FastAPI. This project demonstrates a complete full-stack workflow including authentication, database management, and CRUD operations.
+: A simple, secure, and efficient Task Management application built with React and FastAPI. This project demonstrates a complete full-stack workflow including authentication, database management, and CRUD operations.
 
 Tech Stack
 Frontend:
